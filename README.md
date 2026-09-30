@@ -29,7 +29,7 @@ My own Jarvis-style voice assistant. It chats in Korean and English, uses real t
 ## Competitions
 
 **2026 Inha AI Challenge** · Jul–Aug 2026\
-Our team of four set out to build a world model for a robot arm. My part was fine-tuning: I trained the Ctrl-World video model, and later a latent optical-flow version a teammate designed. [Read more (Korean)](https://kheechan04.github.io/iaic-2026/)
+Our team built a world model for a robot arm, and I took care of fine-tuning the models. [Read more (Korean)](https://kheechan04.github.io/iaic-2026/)
 
 <br>
 
