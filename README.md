@@ -2,7 +2,7 @@
 
 I'm an AI Engineering student who likes building things people can actually try out.
 
-These days I'm really into what AI can do with just a webcam and a mic. So far that's turned into a couple of browser games you play with your body, and a voice assistant you can simply talk to. They're all live on the web, so you can try any of them in one click.
+These days I'm really into what AI can do with just a webcam and a mic. So far that's turned into a couple of browser games you play with your body, and a voice assistant you can simply talk to. The games are live on the web, so you can try them in one click.
 
 I've also gotten curious about physical AI after taking part in a robot-arm competition, and I'm learning more about it now.
 
