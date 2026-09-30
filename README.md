@@ -1,41 +1,39 @@
-# Heechan Kim · 김희찬
+# Hi, I'm Heechan Kim (김희찬)
 
-Artificial Intelligence Engineering student.\
-Lately I've been drawn to what AI can do with live camera and microphone input,\
-so I build web apps that use it: games you play with your body, and a voice assistant you just talk to.\
-Everything is deployed, so each one is a single link away.
+I'm an AI Engineering student who likes building things people can actually try out.
 
-I've also started studying physical AI, sparked by a robot-arm world model competition.
+These days I'm really into what AI can do with just a webcam and a mic. So far that's turned into a couple of browser games you play with your body, and a voice assistant you can simply talk to. They're all live on the web, so you can try any of them in one click.
 
-khchan04@naver.com · [Portfolio (Korean)](https://kheechan04.github.io)
+I've also gotten curious about physical AI after taking part in a robot-arm competition, and I'm learning more about it now.
+
+Feel free to reach out at khchan04@naver.com. If you want the full story behind each project, it's all on my [portfolio](https://kheechan04.github.io) (in Korean).
 
 <br>
 
-## Things I've built
+## Projects
 
 **Sonmat: Real Casting** · [Try it](https://sonmat-real-casting.vercel.app) · [Code](https://github.com/kheechan04/sonmat-real-casting)\
-A fishing game you play with empty hands: cast, hook, and reel in front of your webcam. Runs in the browser, nothing to install.\
+A fishing game with no controller. You cast, hook, and reel in with your bare hands in front of the webcam. Nothing to install.\
 <sub>MediaPipe Pose · three.js · TypeScript</sub>
 
 **Shadow Mitts** · [Try it](https://shadow-mitts.vercel.app) · [Code](https://github.com/kheechan04/shadow-mitts)\
-Boxing mitt drills with just a webcam. Pose tracking reads which punch you threw (1-2-3 combos). Video never leaves your device.\
+Boxing mitt practice with nothing but a webcam. It tracks your pose to tell which punch you threw, so you can drill real 1-2-3 combos. Your video never leaves your device.\
 <sub>MediaPipe Pose/Face · three.js · Web Worker · TypeScript</sub>
 
 **Jarvischan** · [Try it](https://jarvischan.vercel.app) · [Code](https://github.com/kheechan04/jarvischan)\
-A voice assistant that talks in Korean and English, calls real tools, and controls my PC through a local agent. Runs at zero cost.\
+My own Jarvis-style voice assistant. It chats in Korean and English, uses real tools, and can even control my PC through a local agent. And it costs nothing to run.\
 <sub>Groq (LLM · Whisper) · Web Speech API · Vercel Serverless</sub>
 
 <br>
 
 ## Competitions
 
-**2026 Inha AI Challenge**: robot-arm world model · Jul–Aug 2026\
-Fine-tuned the Ctrl-World video world model and experimented with a latent optical-flow architecture.\
-[Write-up (Korean)](https://kheechan04.github.io/iaic-2026/)
+**2026 Inha AI Challenge** · Jul–Aug 2026\
+The task was building a world model for a robot arm. I fine-tuned the Ctrl-World video model and tried out a latent optical-flow architecture. [Read more (Korean)](https://kheechan04.github.io/iaic-2026/)
 
 <br>
 
-## Tools
+## Tools I use
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,threejs,nodejs,vercel,git" alt="Python, PyTorch, TypeScript, JavaScript, three.js, Node.js, Vercel, Git" />
 
