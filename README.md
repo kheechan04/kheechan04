@@ -20,8 +20,8 @@ A fishing game with no controller. You cast, hook, and reel in with your bare ha
 Boxing mitt practice with nothing but a webcam. It tracks your pose to tell which punch you threw, so you can drill real 1-2-3 combos. Your video never leaves your device.\
 <sub>MediaPipe Pose/Face · three.js · Web Worker · TypeScript</sub>
 
-**Jarvischan** · [Try it](https://jarvischan.vercel.app) · [Code](https://github.com/kheechan04/jarvischan)\
-My own Jarvis-style voice assistant. It chats in Korean and English, uses real tools, and can even control my PC through a local agent. And it costs nothing to run.\
+**Jarvischan** · [Code](https://github.com/kheechan04/jarvischan)\
+My own Jarvis-style voice assistant, built for personal use (so the live site is password-protected). It chats in Korean and English, uses real tools, and can even control my PC through a local agent. And it costs nothing to run.\
 <sub>Groq (LLM · Whisper) · Web Speech API · Vercel Serverless</sub>
 
 <br>
