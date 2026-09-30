@@ -35,9 +35,6 @@ Our team built a world model for a robot arm, and I took care of fine-tuning the
 
 ## Tools I use
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,threejs,nodejs,vercel,git" alt="Python, PyTorch, TypeScript, JavaScript, three.js, Node.js, Vercel, Git" />
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=flat-square)
+**AI** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)\
+**Web** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)\
+**Infra** &nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=flat-square)
