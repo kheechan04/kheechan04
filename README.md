@@ -6,6 +6,8 @@ These days I'm really into what AI can do with just a webcam and a mic. So far t
 
 I've also gotten curious about physical AI after taking part in a robot-arm competition, and I'm learning more about it now.
 
+More than anything, I want to build things that genuinely help people. Not just fun to try, but something someone actually needs.
+
 Feel free to reach out at khchan04@naver.com. If you want the full story behind each project, it's all on my [portfolio](https://kheechan04.github.io) (in Korean).
 
 <br>
