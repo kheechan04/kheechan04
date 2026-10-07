@@ -14,6 +14,10 @@ Feel free to reach out at khchan04@naver.com. If you want the full story behind 
 
 ## Projects
 
+**webcam-teach-robot** · [Read more (Korean)](https://kheechan04.github.io/webcam-teach-robot/) · [Code](https://github.com/kheechan04/webcam-teach-robot)\
+A personal research project: teaching a simulated robot arm (SO-101) from webcam hand demonstrations, and measuring how much the webcam's depth error hurts imitation learning.\
+<sub>LeRobot (ACT) · MuJoCo · MediaPipe · Python</sub>
+
 **Sonmat: Real Casting** · [Try it](https://sonmat-real-casting.vercel.app) · [Code](https://github.com/kheechan04/sonmat-real-casting)\
 A fishing game with no controller. You cast, hook, and reel in with your bare hands in front of the webcam. Nothing to install.\
 <sub>MediaPipe Pose · three.js · TypeScript</sub>
