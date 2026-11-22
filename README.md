@@ -14,6 +14,10 @@ Feel free to reach out at khchan04@naver.com. If you want the full story behind 
 
 ## Projects
 
+**Bokhak Oppas (복학생오빠들)** · Ongoing · [Read more (Korean)](https://kheechan04.github.io/ai-shorts-monetization/) · [Instagram](https://www.instagram.com/bokhak_oppas/)\
+An ongoing 4-person team project: AI sitcom Reels about students returning to college after military service. I planned it and built the pipeline, so a single script file turns into a finished Reel with narration, speech bubbles, sound effects and edits. The team only has to write the story.\
+<sub>Gemini · Higgsfield (Kling) · Google TTS · Python · FFmpeg</sub>
+
 **webcam-teach-robot** · [Read more (Korean)](https://kheechan04.github.io/webcam-teach-robot/) · [Code](https://github.com/kheechan04/webcam-teach-robot)\
 A personal research project: teaching a simulated robot arm (SO-101) from webcam hand demonstrations, and measuring how much the webcam's depth error hurts imitation learning.\
 <sub>LeRobot (ACT) · MuJoCo · MediaPipe · Python</sub>
